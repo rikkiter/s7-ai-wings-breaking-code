@@ -3,7 +3,7 @@
 
 Результат выполения этой части хакатона - это техническое задание на разработку решения вашей идеи.
 ><p align="center">
->   <img width="200px" src="/opros/opros-4.png" alt="qr"/>
+>   <img width="200px" src="opros/opros-4.png" alt="qr"/>
 ></p>
 ><p align="center">
 >   <img width="200px" src="/opros/opros-4.png" alt="qr"/>
