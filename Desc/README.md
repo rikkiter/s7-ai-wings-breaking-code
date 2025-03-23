@@ -3,16 +3,16 @@
 
 Результат выполения этой части хакатона - это техническое задание на разработку решения вашей идеи.
 ><p align="center">
->   <img width="200px" src="opros/opros-4.png" alt="qr"/>
+>   <img width="200px" src="opros-1.png" alt="qr"/>
 ></p>
 ><p align="center">
->   <img width="200px" src="/opros/opros-4.png" alt="qr"/>
+>   <img width="200px" src="opros-2.png" alt="qr"/>
 ></p>
 ><p align="center">
->   <img width="200px" src="/opros/opros-4.png" alt="qr"/>
+>   <img width="200px" src="opros-3.png" alt="qr"/>
 ></p>
 ><p align="center">
->   <img width="200px" src="/opros/opros-4.png" alt="qr"/>
+>   <img width="200px" src="opros-4.png" alt="qr"/>
 ></p>
 **Порядок описания аналитических артефактов:**
 1) Основные объекты продукта
