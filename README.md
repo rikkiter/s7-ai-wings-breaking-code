@@ -15,5 +15,5 @@
 - `/Desc` - аналитические артефакты решения
 - `/Tech` - кодовая база решения
 ><p align="center">
->   <img width="200px" src="Breaking Code.png" alt="qr"/>
+>   <img width="1000px" src="Breaking Code.png" alt="qr"/>
 ></p>
