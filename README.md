@@ -14,3 +14,6 @@
 - `/Idea` - основная идея вашего проекта
 - `/Desc` - аналитические артефакты решения
 - `/Tech` - кодовая база решения
+><p align="center">
+>   <img width="200px" src="Breaking Code.png" alt="qr"/>
+></p>
