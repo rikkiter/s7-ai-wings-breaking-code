@@ -2,7 +2,9 @@
 Перед тем, как преступать к реализации идеи мы провели ряд исследований.
 
 Во-первых, нам удалось провести опрос среди сотрудников колл-центров компаний Smartavia и Red Wings.
+
 опрос - https://docs.google.com/forms/d/e/1FAIpQLSf1MUyG6UO22YwwyrLtXGCx_yBeEzG7yfqw4iiJ_Us4QyfWog/viewform?usp=dialog
+
 В опросе принял участие 31 человек. Ниже приложены результаты анкетирования.
 ><p align="center">
 >   <img width="774px" src="opros/opros-1.jpg" alt="qr"/>
